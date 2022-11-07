@@ -1,7 +1,7 @@
 ﻿
 // Создать класс гараж и добавить в него несколько автомобилей
 
-class Car : ICar
+class Track :ICar
 {
     public string? _name; // название
     public string Name
@@ -22,7 +22,7 @@ class Car : ICar
         get { return this.Speed; }
         set { this.Speed = value; }
     }
-    public Car(string? name, string? color, int? max_speed)
+    public Track(string? name, string? color, int? max_speed)
     {
         this._name = name;
         this._color = color;
@@ -30,7 +30,7 @@ class Car : ICar
     }
 
 
-   public void Show()
+    public void Show()
     {
         Console.WriteLine($"Легковая машина {this._name} ");
         Console.WriteLine($"Цвет машины {this._color} ");

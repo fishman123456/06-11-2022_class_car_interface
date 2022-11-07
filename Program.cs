@@ -6,12 +6,14 @@
 // реализовать сортировку машин в гараже,
 // по названию по цвету и по скорости.
 // вывести состояние гаража после каждой сортировки
-using Car_Garage;
-
-Console.WriteLine("приложение автомобиль");
-
-Garage garage = new Garage();
-foreach (Car cars in garage)
+ICar[] arr =
 {
-    Console.WriteLine(cars);
+    new Car ("fgsfg","sdfsdf",75),
+    new Car ("fghsdfghsdfg","ghkk",99),
+    new Track ("dfg","sdf",555)
+};
+foreach (ICar item in arr)
+{
+    item.Show ();
+    Console.WriteLine();
 }
