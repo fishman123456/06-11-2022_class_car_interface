@@ -1,0 +1,15 @@
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\bin\Debug\net6.0\06-11-2022_class_car_interface.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\bin\Debug\net6.0\06-11-2022_class_car_interface.deps.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\bin\Debug\net6.0\06-11-2022_class_car_interface.runtimeconfig.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\bin\Debug\net6.0\06-11-2022_class_car_interface.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\bin\Debug\net6.0\06-11-2022_class_car_interface.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\obj\Debug\net6.0\06-11-2022_class_car_interface.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\obj\Debug\net6.0\06-11-2022_class_car_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\obj\Debug\net6.0\06-11-2022_class_car_interface.AssemblyInfoInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\obj\Debug\net6.0\06-11-2022_class_car_interface.AssemblyInfo.cs
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\obj\Debug\net6.0\06-11-2022_class_car_interface.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\obj\Debug\net6.0\06-11-2022_class_car_interface.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\obj\Debug\net6.0\refint\06-11-2022_class_car_interface.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\obj\Debug\net6.0\06-11-2022_class_car_interface.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\obj\Debug\net6.0\06-11-2022_class_car_interface.genruntimeconfig.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\06-11-2022_class_car_interface\obj\Debug\net6.0\ref\06-11-2022_class_car_interface.dll

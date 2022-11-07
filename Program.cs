@@ -6,4 +6,12 @@
 // реализовать сортировку машин в гараже,
 // по названию по цвету и по скорости.
 // вывести состояние гаража после каждой сортировки
+using Car_Garage;
+
 Console.WriteLine("приложение автомобиль");
+
+Garage garage = new Garage();
+foreach (Car cars in garage)
+{
+    Console.WriteLine(cars);
+}
